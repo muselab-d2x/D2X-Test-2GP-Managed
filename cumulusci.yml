@@ -3,7 +3,7 @@ project:
     name: D2X-Test-2GP-Managed
     package:
         name: D2X Test 2GP Managed
-        
+        namespace: d2x
         api_version: '55.0'
     git:
         default_branch: 'main'
