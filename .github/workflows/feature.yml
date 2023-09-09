@@ -2,7 +2,8 @@ name: 2GP Feature Test
 on:
     push:
         branches:
-            - feature/**
+            - main
+            - feature/**     
 
 jobs:
     feature-test:
